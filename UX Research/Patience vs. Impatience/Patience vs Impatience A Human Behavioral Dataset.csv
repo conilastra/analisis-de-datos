@@ -1,0 +1,251 @@
+User_ID,Age_Group,Personality_Type,Person_Profile_Type,Scenario,Response_Time,Task_Completed,Frustration_Level,Quit_Midway,Retry_After_Failure,Preferred_Style,Distraction_Count,Self_Reported_Stress
+U001,18–25,Impatient,Happy Learner,Waiting,1047,Yes,9,No,Yes,Long-Term Effort,8,Low
+U002,26–35,Impatient,Fast-Result Seeker,Learning,1198,No,4,No,Yes,Quick Results,0,Medium
+U003,26–35,Patient,Happy Learner,Learning,73,Yes,4,No,Yes,Quick Results,2,High
+U004,18–25,Patient,Happy Learner,Decision-Making,390,No,9,Yes,No,Long-Term Effort,10,High
+U005,26–35,Patient,Confused Beginner,Waiting,307,Yes,2,No,Yes,Quick Results,3,High
+U006,18–25,Impatient,Fast-Result Seeker,Working,110,No,2,No,No,Quick Results,3,Low
+U007,26–35,Impatient,Confused Beginner,Waiting,858,No,1,No,No,Long-Term Effort,6,Medium
+U008,26–35,Patient,Happy Learner,Waiting,324,No,10,Yes,Yes,Quick Results,10,Low
+U009,36–45,Impatient,Silent Achiever,Working,1108,No,10,Yes,No,Quick Results,4,Low
+U010,36–45,Impatient,Confused Beginner,Working,265,Yes,6,No,Yes,Quick Results,6,Medium
+U011,26–35,Impatient,Silent Achiever,Waiting,181,Yes,8,No,Yes,Long-Term Effort,10,High
+U012,18–25,Impatient,Struggler,Working,643,Yes,9,No,Yes,Long-Term Effort,2,Low
+U013,18–25,Impatient,Happy Learner,Waiting,179,Yes,4,No,Yes,Quick Results,2,High
+U014,18–25,Patient,Struggler,Decision-Making,838,No,9,Yes,No,Quick Results,2,High
+U015,18–25,Patient,Burnout Survivor,Decision-Making,152,No,3,No,No,Quick Results,4,Low
+U016,18–25,Impatient,Fast-Result Seeker,Learning,1122,No,1,No,Yes,Quick Results,9,Low
+U017,36–45,Patient,Struggler,Decision-Making,391,Yes,9,No,Yes,Quick Results,7,High
+U018,18–25,Impatient,Burnout Survivor,Learning,831,No,9,Yes,Yes,Quick Results,2,High
+U019,26–35,Impatient,Burnout Survivor,Working,363,Yes,5,No,Yes,Quick Results,5,High
+U020,18–25,Impatient,Struggler,Working,274,Yes,4,No,Yes,Long-Term Effort,10,Low
+U021,36–45,Impatient,Silent Achiever,Waiting,425,No,1,No,Yes,Long-Term Effort,1,High
+U022,18–25,Patient,Happy Learner,Working,124,Yes,9,No,Yes,Long-Term Effort,6,Medium
+U023,26–35,Impatient,Confused Beginner,Learning,80,Yes,10,No,Yes,Long-Term Effort,9,Low
+U024,36–45,Patient,Overconfident Dropper,Decision-Making,647,Yes,7,No,Yes,Long-Term Effort,3,High
+U025,26–35,Impatient,Confused Beginner,Learning,157,No,7,Yes,No,Quick Results,9,Medium
+U026,26–35,Patient,Silent Achiever,Waiting,310,Yes,1,No,Yes,Long-Term Effort,3,Medium
+U027,18–25,Impatient,Confused Beginner,Working,1027,Yes,9,No,Yes,Long-Term Effort,4,High
+U028,36–45,Patient,Burnout Survivor,Waiting,1195,Yes,8,No,Yes,Quick Results,0,Low
+U029,26–35,Impatient,Overconfident Dropper,Waiting,1048,No,7,Yes,No,Long-Term Effort,4,High
+U030,26–35,Impatient,Confused Beginner,Learning,481,Yes,6,No,Yes,Long-Term Effort,7,Low
+U031,26–35,Impatient,Silent Achiever,Learning,448,Yes,7,No,Yes,Quick Results,2,Low
+U032,26–35,Patient,Happy Learner,Waiting,446,Yes,4,No,Yes,Quick Results,2,Medium
+U033,18–25,Patient,Happy Learner,Working,323,Yes,3,No,Yes,Quick Results,2,Medium
+U034,26–35,Patient,Silent Achiever,Waiting,1008,No,7,Yes,No,Quick Results,10,High
+U035,26–35,Patient,Fast-Result Seeker,Decision-Making,168,No,9,Yes,Yes,Quick Results,4,Medium
+U036,36–45,Patient,Happy Learner,Decision-Making,1167,No,5,No,Yes,Long-Term Effort,5,High
+U037,26–35,Patient,Burnout Survivor,Learning,1130,No,7,Yes,Yes,Quick Results,1,Low
+U038,36–45,Impatient,Happy Learner,Working,550,Yes,3,No,Yes,Long-Term Effort,4,Medium
+U039,18–25,Impatient,Happy Learner,Learning,878,Yes,8,No,Yes,Quick Results,2,Low
+U040,26–35,Patient,Burnout Survivor,Decision-Making,1005,Yes,8,No,Yes,Quick Results,2,Low
+U041,36–45,Patient,Burnout Survivor,Waiting,1174,No,2,No,Yes,Quick Results,4,Low
+U042,36–45,Impatient,Fast-Result Seeker,Working,577,Yes,2,No,Yes,Quick Results,4,Low
+U043,36–45,Patient,Struggler,Waiting,297,Yes,2,No,Yes,Long-Term Effort,9,High
+U044,36–45,Impatient,Silent Achiever,Learning,714,No,3,No,No,Quick Results,10,Medium
+U045,18–25,Impatient,Happy Learner,Working,871,No,10,Yes,No,Long-Term Effort,4,Medium
+U046,36–45,Patient,Burnout Survivor,Waiting,438,No,3,No,Yes,Long-Term Effort,9,Low
+U047,36–45,Impatient,Overconfident Dropper,Working,354,No,9,Yes,No,Long-Term Effort,7,Medium
+U048,26–35,Patient,Happy Learner,Waiting,942,No,9,Yes,No,Long-Term Effort,8,Medium
+U049,36–45,Patient,Struggler,Learning,906,Yes,6,No,Yes,Quick Results,0,Medium
+U050,26–35,Impatient,Silent Achiever,Working,1083,No,9,Yes,No,Long-Term Effort,4,High
+U051,46-60,Patient,Mindful Worker,Waiting,901,No,1,No,No,Multitask,2,High
+U052,26-35,Impatient,Happy Learner,Learning,354,No,3,No,No,Step-by-step,4,Medium
+U053,46-60,Impatient,Mindful Worker,Learning,592,No,4,Yes,Yes,Fast-track,4,Medium
+U054,26-35,Impatient,Easily Distracted,Decision-Making,300,No,3,No,Yes,Step-by-step,5,Medium
+U055,18-25,Impatient,Steady Performer,Decision-Making,547,No,3,No,Yes,Fast-track,2,Medium
+U056,36-45,Impatient,Easily Distracted,Learning,234,Yes,3,Yes,No,Step-by-step,3,Low
+U057,46-60,Patient,Happy Learner,Decision-Making,1068,Yes,1,Yes,No,Multitask,2,High
+U058,18-25,Impatient,Productive Under Pressure,Learning,302,Yes,5,No,Yes,Fast-track,2,Medium
+U059,36-45,Impatient,Happy Learner,Waiting,390,No,3,No,No,Trial-and-Error,3,Medium
+U060,18-25,Impatient,Steady Performer,Learning,402,No,3,No,No,Multitask,2,Medium
+U061,46-60,Patient,Burnout Survivor,Waiting,1061,Yes,2,Yes,No,Step-by-step,2,Medium
+U062,26-35,Impatient,Fast-Result Seeker,Working,238,No,4,No,Yes,Step-by-step,4,Medium
+U063,36-45,Patient,Easily Distracted,Working,1176,No,1,Yes,Yes,Trial-and-Error,0,High
+U064,26-35,Impatient,Fast-Result Seeker,Decision-Making,194,No,5,Yes,No,Step-by-step,4,High
+U065,18-25,Patient,Happy Learner,Decision-Making,1000,No,3,No,No,Trial-and-Error,0,Low
+U066,18-25,Impatient,Burnout Survivor,Working,367,Yes,5,No,Yes,Step-by-step,6,High
+U067,26-35,Impatient,Happy Learner,Learning,361,No,3,No,No,Multitask,6,Low
+U068,36-45,Impatient,Mindful Worker,Learning,521,No,5,Yes,No,Trial-and-Error,3,Low
+U069,36-45,Impatient,Steady Performer,Learning,379,No,3,Yes,Yes,Multitask,4,High
+U070,18-25,Patient,Productive Under Pressure,Decision-Making,1174,No,3,Yes,No,Trial-and-Error,2,Low
+U071,26-35,Patient,Easily Distracted,Learning,730,Yes,1,No,Yes,Trial-and-Error,2,High
+U072,46-60,Patient,Fast-Result Seeker,Waiting,1114,No,2,No,Yes,Fast-track,0,Medium
+U073,46-60,Impatient,Easily Distracted,Decision-Making,311,No,5,Yes,No,Multitask,3,Medium
+U074,18-25,Impatient,Fast-Result Seeker,Learning,223,No,3,No,Yes,Fast-track,3,High
+U075,18-25,Impatient,Burnout Survivor,Decision-Making,242,No,3,Yes,Yes,Step-by-step,2,Low
+U076,26-35,Patient,Steady Performer,Learning,980,Yes,1,No,Yes,Multitask,1,Low
+U077,36-45,Impatient,Fast-Result Seeker,Learning,434,No,3,Yes,No,Trial-and-Error,6,Low
+U078,26-35,Patient,Steady Performer,Learning,998,Yes,1,Yes,Yes,Trial-and-Error,0,Medium
+U079,18-25,Patient,Productive Under Pressure,Waiting,1156,Yes,2,Yes,No,Step-by-step,2,Medium
+U080,46-60,Impatient,Happy Learner,Working,165,No,3,No,No,Trial-and-Error,4,High
+U081,18-25,Patient,Happy Learner,Learning,1022,Yes,3,No,No,Trial-and-Error,1,Low
+U082,46-60,Impatient,Mindful Worker,Learning,359,No,5,Yes,Yes,Multitask,4,High
+U083,46-60,Patient,Burnout Survivor,Learning,763,No,2,Yes,Yes,Fast-track,1,Low
+U084,46-60,Impatient,Easily Distracted,Decision-Making,135,Yes,3,No,Yes,Fast-track,4,High
+U085,26-35,Impatient,Mindful Worker,Learning,150,No,5,No,Yes,Step-by-step,4,High
+U086,36-45,Impatient,Easily Distracted,Decision-Making,555,Yes,4,Yes,Yes,Trial-and-Error,5,High
+U087,36-45,Patient,Easily Distracted,Waiting,771,No,1,Yes,Yes,Fast-track,1,Low
+U088,18-25,Impatient,Mindful Worker,Learning,461,No,4,Yes,Yes,Fast-track,6,Medium
+U089,26-35,Impatient,Happy Learner,Waiting,468,Yes,4,Yes,No,Multitask,6,High
+U090,36-45,Impatient,Steady Performer,Waiting,227,Yes,5,No,Yes,Fast-track,5,Low
+U091,46-60,Patient,Steady Performer,Working,1014,Yes,3,Yes,No,Multitask,1,Medium
+U092,36-45,Impatient,Mindful Worker,Working,564,No,5,Yes,No,Step-by-step,4,Medium
+U093,26-35,Patient,Happy Learner,Working,1093,Yes,1,No,Yes,Fast-track,0,Low
+U094,46-60,Patient,Burnout Survivor,Decision-Making,1188,Yes,2,Yes,No,Fast-track,1,Medium
+U095,18-25,Patient,Mindful Worker,Waiting,1003,Yes,2,No,Yes,Multitask,0,High
+U096,36-45,Impatient,Steady Performer,Learning,336,No,5,Yes,No,Multitask,5,Low
+U097,18-25,Patient,Fast-Result Seeker,Waiting,1135,Yes,3,Yes,Yes,Fast-track,2,Low
+U098,46-60,Patient,Burnout Survivor,Learning,1059,No,1,No,No,Step-by-step,1,Medium
+U099,36-45,Impatient,Burnout Survivor,Waiting,429,No,3,Yes,No,Trial-and-Error,4,High
+U100,36-45,Patient,Mindful Worker,Learning,743,No,3,No,No,Trial-and-Error,0,High
+U101,26-35,Patient,Steady Performer,Decision-Making,817,Yes,2,Yes,Yes,Trial-and-Error,1,Medium
+U102,26-35,Patient,Mindful Worker,Decision-Making,882,No,2,Yes,No,Fast-track,0,Low
+U103,18-25,Impatient,Easily Distracted,Waiting,108,Yes,4,No,Yes,Multitask,3,Medium
+U104,46-60,Impatient,Steady Performer,Learning,589,Yes,5,No,No,Trial-and-Error,4,High
+U105,26-35,Patient,Mindful Worker,Waiting,1089,Yes,1,No,Yes,Trial-and-Error,0,High
+U106,26-35,Patient,Happy Learner,Waiting,725,No,1,Yes,No,Trial-and-Error,2,Low
+U107,46-60,Impatient,Burnout Survivor,Waiting,441,No,3,No,Yes,Trial-and-Error,3,Low
+U108,26-35,Patient,Mindful Worker,Learning,858,Yes,1,Yes,No,Fast-track,1,Medium
+U109,26-35,Patient,Burnout Survivor,Decision-Making,1050,Yes,2,No,Yes,Fast-track,2,Medium
+U110,26-35,Patient,Steady Performer,Learning,918,Yes,2,No,No,Fast-track,0,High
+U111,26-35,Impatient,Happy Learner,Working,565,Yes,5,No,No,Trial-and-Error,6,High
+U112,18-25,Patient,Burnout Survivor,Waiting,772,No,2,Yes,No,Step-by-step,2,Low
+U113,36-45,Patient,Easily Distracted,Decision-Making,1054,No,1,Yes,No,Fast-track,0,High
+U114,46-60,Impatient,Steady Performer,Waiting,404,Yes,3,Yes,Yes,Multitask,6,High
+U115,46-60,Patient,Steady Performer,Waiting,984,Yes,2,No,Yes,Trial-and-Error,2,Medium
+U116,36-45,Impatient,Happy Learner,Working,338,No,4,Yes,Yes,Multitask,5,Low
+U117,36-45,Impatient,Productive Under Pressure,Decision-Making,269,Yes,4,Yes,Yes,Step-by-step,3,Medium
+U118,18-25,Patient,Fast-Result Seeker,Waiting,1084,Yes,2,No,No,Step-by-step,2,High
+U119,18-25,Impatient,Happy Learner,Decision-Making,242,No,5,Yes,Yes,Fast-track,3,Low
+U120,46-60,Patient,Easily Distracted,Waiting,820,No,3,No,No,Multitask,1,Medium
+U121,46-60,Impatient,Happy Learner,Learning,378,Yes,4,No,Yes,Trial-and-Error,3,Low
+U122,26-35,Patient,Productive Under Pressure,Working,1037,No,2,Yes,No,Step-by-step,0,High
+U123,36-45,Impatient,Mindful Worker,Working,530,No,4,No,No,Multitask,2,High
+U124,26-35,Patient,Productive Under Pressure,Decision-Making,928,No,1,No,No,Fast-track,2,High
+U125,26-35,Impatient,Mindful Worker,Working,262,No,5,Yes,Yes,Trial-and-Error,2,Medium
+U126,18-25,Impatient,Burnout Survivor,Working,128,No,4,Yes,Yes,Trial-and-Error,3,Medium
+U127,46-60,Impatient,Easily Distracted,Learning,522,No,5,Yes,Yes,Trial-and-Error,4,Low
+U128,36-45,Patient,Mindful Worker,Decision-Making,837,No,2,No,No,Step-by-step,0,High
+U129,36-45,Impatient,Happy Learner,Working,321,Yes,5,Yes,No,Trial-and-Error,5,High
+U130,36-45,Patient,Happy Learner,Learning,783,Yes,1,Yes,Yes,Multitask,1,High
+U131,36-45,Impatient,Fast-Result Seeker,Decision-Making,225,No,5,No,No,Fast-track,3,Low
+U132,26-35,Impatient,Steady Performer,Learning,102,Yes,4,No,Yes,Step-by-step,2,High
+U133,36-45,Impatient,Steady Performer,Waiting,586,Yes,3,Yes,No,Step-by-step,6,Low
+U134,18-25,Impatient,Fast-Result Seeker,Learning,157,Yes,5,Yes,No,Multitask,6,High
+U135,46-60,Impatient,Burnout Survivor,Learning,282,Yes,4,Yes,Yes,Trial-and-Error,2,High
+U136,26-35,Impatient,Steady Performer,Working,389,Yes,4,No,No,Trial-and-Error,5,Medium
+U137,46-60,Patient,Mindful Worker,Learning,870,Yes,1,Yes,No,Fast-track,2,Low
+U138,46-60,Impatient,Productive Under Pressure,Working,381,Yes,3,No,No,Trial-and-Error,5,High
+U139,46-60,Patient,Steady Performer,Waiting,938,Yes,3,Yes,Yes,Trial-and-Error,1,High
+U140,36-45,Impatient,Fast-Result Seeker,Waiting,107,Yes,5,Yes,No,Fast-track,6,Low
+U141,26-35,Patient,Fast-Result Seeker,Decision-Making,824,No,2,Yes,Yes,Fast-track,1,High
+U142,46-60,Impatient,Burnout Survivor,Learning,415,No,3,Yes,No,Step-by-step,6,Medium
+U143,46-60,Impatient,Burnout Survivor,Learning,396,No,4,Yes,No,Trial-and-Error,2,Medium
+U144,26-35,Impatient,Happy Learner,Waiting,229,No,4,Yes,No,Fast-track,3,High
+U145,36-45,Impatient,Productive Under Pressure,Decision-Making,160,No,5,No,No,Step-by-step,4,High
+U146,18-25,Impatient,Productive Under Pressure,Decision-Making,473,No,4,No,No,Multitask,3,Low
+U147,36-45,Patient,Fast-Result Seeker,Learning,1001,No,1,Yes,No,Trial-and-Error,0,Low
+U148,18-25,Impatient,Fast-Result Seeker,Working,534,Yes,4,Yes,No,Step-by-step,6,Low
+U149,46-60,Patient,Easily Distracted,Working,763,Yes,3,Yes,No,Trial-and-Error,2,High
+U150,46-60,Patient,Fast-Result Seeker,Working,1121,Yes,3,Yes,No,Multitask,2,Low
+U151,26-35,Patient,Happy Learner,Learning,990,No,1,No,Yes,Step-by-step,2,Low
+U152,36-45,Patient,Fast-Result Seeker,Decision-Making,914,No,1,No,Yes,Multitask,2,Medium
+U153,26-35,Patient,Steady Performer,Working,769,Yes,3,No,Yes,Multitask,0,Medium
+U154,36-45,Patient,Steady Performer,Learning,1156,Yes,3,No,Yes,Fast-track,0,High
+U155,18-25,Impatient,Burnout Survivor,Decision-Making,341,Yes,3,Yes,No,Fast-track,5,High
+U156,36-45,Patient,Burnout Survivor,Learning,769,No,3,Yes,No,Trial-and-Error,1,Medium
+U157,26-35,Impatient,Fast-Result Seeker,Working,217,Yes,4,No,No,Multitask,3,High
+U158,18-25,Impatient,Fast-Result Seeker,Waiting,588,Yes,3,No,Yes,Trial-and-Error,3,Low
+U159,46-60,Impatient,Burnout Survivor,Waiting,455,Yes,5,Yes,Yes,Multitask,3,High
+U160,26-35,Impatient,Burnout Survivor,Working,516,No,5,No,Yes,Step-by-step,2,High
+U161,26-35,Patient,Productive Under Pressure,Waiting,1082,Yes,3,Yes,No,Trial-and-Error,2,Medium
+U162,46-60,Patient,Easily Distracted,Decision-Making,888,No,2,No,No,Step-by-step,0,High
+U163,26-35,Patient,Fast-Result Seeker,Working,972,No,2,No,No,Multitask,2,High
+U164,36-45,Patient,Fast-Result Seeker,Working,734,No,3,Yes,Yes,Trial-and-Error,2,High
+U165,36-45,Impatient,Happy Learner,Decision-Making,549,Yes,3,No,No,Fast-track,2,Medium
+U166,26-35,Impatient,Fast-Result Seeker,Waiting,518,Yes,5,Yes,Yes,Step-by-step,3,Low
+U167,26-35,Patient,Steady Performer,Waiting,792,No,1,No,Yes,Trial-and-Error,2,Medium
+U168,46-60,Patient,Mindful Worker,Working,829,No,3,No,No,Step-by-step,1,High
+U169,18-25,Patient,Burnout Survivor,Waiting,1149,Yes,1,No,No,Trial-and-Error,0,Low
+U170,18-25,Patient,Fast-Result Seeker,Decision-Making,894,Yes,1,No,No,Fast-track,0,High
+U171,36-45,Impatient,Happy Learner,Working,506,Yes,4,Yes,Yes,Fast-track,5,High
+U172,36-45,Impatient,Steady Performer,Waiting,352,No,5,Yes,No,Fast-track,2,Medium
+U173,18-25,Patient,Burnout Survivor,Working,1178,Yes,1,Yes,No,Fast-track,2,High
+U174,26-35,Patient,Happy Learner,Learning,952,Yes,3,No,Yes,Multitask,0,Low
+U175,36-45,Impatient,Burnout Survivor,Learning,390,Yes,3,No,Yes,Step-by-step,4,Low
+U176,36-45,Patient,Happy Learner,Working,858,No,1,No,Yes,Step-by-step,0,Low
+U177,18-25,Patient,Productive Under Pressure,Working,1178,Yes,1,Yes,No,Fast-track,0,Low
+U178,26-35,Patient,Easily Distracted,Waiting,866,No,3,No,No,Multitask,2,Medium
+U179,36-45,Patient,Happy Learner,Learning,1139,No,3,No,No,Fast-track,1,Low
+U180,46-60,Patient,Fast-Result Seeker,Learning,1184,No,2,Yes,Yes,Step-by-step,0,High
+U181,46-60,Patient,Easily Distracted,Decision-Making,1147,Yes,2,Yes,No,Trial-and-Error,2,High
+U182,26-35,Patient,Happy Learner,Learning,1085,No,2,No,No,Multitask,1,Low
+U183,18-25,Impatient,Productive Under Pressure,Working,428,Yes,4,No,No,Step-by-step,5,High
+U184,18-25,Patient,Productive Under Pressure,Learning,1178,Yes,1,Yes,Yes,Fast-track,2,Medium
+U185,26-35,Impatient,Productive Under Pressure,Working,237,Yes,3,Yes,Yes,Fast-track,4,Medium
+U186,18-25,Patient,Burnout Survivor,Working,1122,No,3,Yes,Yes,Fast-track,2,Low
+U187,18-25,Patient,Happy Learner,Decision-Making,789,No,2,Yes,No,Step-by-step,0,Low
+U188,36-45,Impatient,Mindful Worker,Waiting,389,Yes,5,No,Yes,Multitask,6,High
+U189,26-35,Impatient,Fast-Result Seeker,Learning,130,Yes,3,No,Yes,Step-by-step,5,Low
+U190,26-35,Patient,Easily Distracted,Waiting,811,No,1,No,No,Trial-and-Error,2,Medium
+U191,36-45,Impatient,Productive Under Pressure,Waiting,546,No,5,Yes,Yes,Trial-and-Error,6,Medium
+U192,26-35,Patient,Easily Distracted,Decision-Making,1024,No,2,Yes,No,Fast-track,2,Medium
+U193,46-60,Impatient,Burnout Survivor,Working,260,No,4,No,Yes,Fast-track,2,Medium
+U194,36-45,Impatient,Productive Under Pressure,Decision-Making,120,Yes,3,No,Yes,Step-by-step,6,Low
+U195,36-45,Impatient,Fast-Result Seeker,Waiting,284,Yes,4,Yes,Yes,Multitask,3,High
+U196,26-35,Patient,Burnout Survivor,Decision-Making,1186,No,3,No,No,Step-by-step,0,High
+U197,36-45,Impatient,Happy Learner,Learning,294,No,4,No,No,Step-by-step,3,Low
+U198,18-25,Patient,Productive Under Pressure,Decision-Making,940,Yes,1,No,Yes,Trial-and-Error,0,Medium
+U199,36-45,Impatient,Burnout Survivor,Learning,570,No,3,No,Yes,Multitask,2,Low
+U200,46-60,Patient,Burnout Survivor,Working,720,No,2,No,No,Multitask,2,High
+U201,36-45,Impatient,Burnout Survivor,Waiting,372,Yes,5,No,Yes,Fast-track,4,Medium
+U202,46-60,Patient,Mindful Worker,Waiting,1007,Yes,3,No,Yes,Trial-and-Error,2,Low
+U203,26-35,Impatient,Happy Learner,Decision-Making,335,No,3,Yes,Yes,Trial-and-Error,6,Medium
+U204,26-35,Patient,Mindful Worker,Waiting,798,No,3,No,Yes,Step-by-step,2,Low
+U205,36-45,Impatient,Burnout Survivor,Working,291,Yes,4,No,No,Step-by-step,4,Low
+U206,26-35,Impatient,Burnout Survivor,Working,281,No,4,Yes,Yes,Step-by-step,6,Medium
+U207,18-25,Patient,Burnout Survivor,Working,768,No,2,Yes,No,Step-by-step,1,Low
+U208,18-25,Patient,Mindful Worker,Waiting,908,Yes,3,Yes,Yes,Multitask,2,High
+U209,36-45,Impatient,Mindful Worker,Decision-Making,278,Yes,3,No,No,Fast-track,3,Low
+U210,46-60,Patient,Happy Learner,Waiting,1035,Yes,2,No,Yes,Fast-track,2,High
+U211,46-60,Impatient,Easily Distracted,Waiting,530,Yes,5,No,Yes,Trial-and-Error,3,High
+U212,36-45,Patient,Burnout Survivor,Working,822,Yes,2,Yes,Yes,Fast-track,0,Low
+U213,46-60,Impatient,Mindful Worker,Decision-Making,359,Yes,3,Yes,Yes,Multitask,3,Medium
+U214,36-45,Patient,Easily Distracted,Working,851,Yes,2,No,Yes,Multitask,1,High
+U215,36-45,Patient,Easily Distracted,Decision-Making,1019,Yes,3,Yes,No,Trial-and-Error,1,Low
+U216,36-45,Patient,Steady Performer,Decision-Making,1160,No,1,Yes,Yes,Trial-and-Error,2,High
+U217,18-25,Patient,Steady Performer,Working,1012,Yes,2,Yes,Yes,Step-by-step,1,High
+U218,36-45,Impatient,Burnout Survivor,Decision-Making,296,No,5,No,No,Trial-and-Error,2,Medium
+U219,18-25,Patient,Productive Under Pressure,Decision-Making,1127,Yes,1,No,No,Multitask,0,Medium
+U220,18-25,Impatient,Fast-Result Seeker,Learning,572,No,5,Yes,Yes,Trial-and-Error,4,High
+U221,46-60,Impatient,Easily Distracted,Waiting,261,Yes,3,Yes,Yes,Fast-track,4,High
+U222,18-25,Impatient,Steady Performer,Working,493,No,3,No,No,Fast-track,4,High
+U223,46-60,Patient,Steady Performer,Working,1105,No,2,Yes,Yes,Multitask,0,Medium
+U224,36-45,Patient,Steady Performer,Working,1187,Yes,2,No,No,Multitask,2,Medium
+U225,36-45,Patient,Mindful Worker,Working,1159,Yes,1,No,Yes,Multitask,1,High
+U226,46-60,Patient,Easily Distracted,Working,1114,Yes,1,Yes,No,Step-by-step,0,Medium
+U227,36-45,Patient,Mindful Worker,Learning,943,Yes,3,No,No,Trial-and-Error,2,Medium
+U228,18-25,Impatient,Mindful Worker,Decision-Making,142,No,5,No,Yes,Trial-and-Error,2,High
+U229,18-25,Impatient,Productive Under Pressure,Learning,314,No,5,No,No,Multitask,3,Low
+U230,46-60,Patient,Happy Learner,Working,888,Yes,3,Yes,No,Fast-track,2,High
+U231,18-25,Impatient,Happy Learner,Waiting,589,No,3,No,No,Multitask,2,Low
+U232,36-45,Impatient,Happy Learner,Decision-Making,273,Yes,3,Yes,No,Fast-track,6,High
+U233,26-35,Patient,Productive Under Pressure,Waiting,823,Yes,2,No,Yes,Fast-track,1,High
+U234,46-60,Impatient,Mindful Worker,Waiting,293,Yes,3,Yes,Yes,Fast-track,6,Medium
+U235,46-60,Patient,Mindful Worker,Learning,1010,Yes,1,No,No,Multitask,0,Medium
+U236,36-45,Impatient,Easily Distracted,Working,370,No,4,No,No,Fast-track,3,High
+U237,18-25,Patient,Happy Learner,Working,962,Yes,3,Yes,No,Step-by-step,0,Low
+U238,18-25,Impatient,Productive Under Pressure,Learning,465,Yes,5,No,Yes,Fast-track,2,High
+U239,18-25,Patient,Burnout Survivor,Working,719,No,2,No,Yes,Step-by-step,0,Low
+U240,26-35,Patient,Happy Learner,Decision-Making,1006,Yes,1,Yes,No,Step-by-step,0,Low
+U241,26-35,Patient,Steady Performer,Learning,847,Yes,2,Yes,Yes,Step-by-step,1,Medium
+U242,36-45,Patient,Burnout Survivor,Working,752,Yes,2,No,Yes,Trial-and-Error,1,Medium
+U243,46-60,Impatient,Happy Learner,Decision-Making,545,Yes,5,Yes,Yes,Trial-and-Error,6,Medium
+U244,18-25,Patient,Mindful Worker,Working,987,Yes,1,Yes,Yes,Trial-and-Error,0,High
+U245,46-60,Patient,Mindful Worker,Decision-Making,792,Yes,2,Yes,No,Trial-and-Error,2,Medium
+U246,18-25,Impatient,Mindful Worker,Working,181,No,4,No,Yes,Multitask,2,Low
+U247,36-45,Impatient,Burnout Survivor,Working,186,No,4,No,No,Fast-track,3,High
+U248,46-60,Patient,Happy Learner,Waiting,773,No,1,No,Yes,Fast-track,1,Medium
+U249,26-35,Patient,Productive Under Pressure,Learning,1095,No,1,No,No,Trial-and-Error,0,High
+U250,46-60,Impatient,Mindful Worker,Decision-Making,470,No,3,No,Yes,Multitask,6,Low
