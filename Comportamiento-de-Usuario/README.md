@@ -1,6 +1,7 @@
-## ¿Qué es CX?
-La Experiencia del Cliente (o CX, por sus siglas en inglés, Customer Experience) es el resultado de todas las interacciones que un cliente tiene con una empresa a lo largo de su relación. Va más allá de una sola compra o un único punto de contacto; abarca todo el viaje del cliente, desde que oye hablar por primera vez de la marca hasta la posventa y más allá.
+## ¿Qué es Comportamiento de Usuario?
+El ámbito que estudia el comportamiento de los usuarios en torno a los anuncios se conoce como análisis del comportamiento del usuario o, de manera más específica en este contexto, análisis de la publicidad digital o publicidad conductual.
 
+Dentro del marketing digital, esto se refiere a la recopilación y análisis de datos sobre cómo las personas interactúan con los anuncios en línea.
 
 
 ## Análisis SQL
