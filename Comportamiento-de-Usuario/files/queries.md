@@ -1,18 +1,3 @@
-### Tipos de Eventos Más Comunes
-```sql
-SELECT 
-    event_type as tipo_evento,
-    COUNT(*) as frecuencia,
-    COUNT(DISTINCT user_id) as usuarios_unicos,
-    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER(), 1) as porcentaje
-FROM ad_events
-GROUP BY event_type
-ORDER BY frecuencia DESC;
-```
-<img width="305" height="127" alt="Screenshot 2025-09-04 at 3 36 18 PM" src="https://github.com/user-attachments/assets/bbdaa978-7174-4142-ac59-ef26900cb11d" />
-
-
-
 ### Distribución Demográfica de Usuarios
 ```sql
 SELECT 
@@ -58,6 +43,20 @@ ORDER BY compras DESC;
 ```
 
 <img width="165" height="183" alt="Screenshot 2025-09-04 at 3 54 57 PM" src="https://github.com/user-attachments/assets/db13c56c-deed-45e0-be01-bddd00d1029a" />
+
+
+### Tipos de Eventos Más Comunes
+```sql
+SELECT 
+    event_type as tipo_evento,
+    COUNT(*) as frecuencia,
+    COUNT(DISTINCT user_id) as usuarios_unicos,
+    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER(), 1) as porcentaje
+FROM ad_events
+GROUP BY event_type
+ORDER BY frecuencia DESC;
+```
+<img width="305" height="127" alt="Screenshot 2025-09-04 at 3 36 18 PM" src="https://github.com/user-attachments/assets/bbdaa978-7174-4142-ac59-ef26900cb11d" />
 
 
 ### Mejor Horario para Publicar
