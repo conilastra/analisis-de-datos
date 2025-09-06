@@ -119,3 +119,16 @@ HAVING COUNT(ae.event_id) > 0
 ORDER BY compras DESC
 LIMIT 10;
 
+-- Relación entre Campañas y Presupuesto
+SELECT
+    c.name AS nombre,
+    c.total_budget AS presupuesto,
+    COUNT(CASE WHEN ae.event_type = 'click' THEN 1 ELSE NULL END) AS clicks,
+    COUNT(CASE WHEN ae.event_type = 'purchase' THEN 1 END) as compras
+FROM campaigns c
+JOIN ads a ON c.campaign_id = a.campaign_id
+JOIN ad_events ae ON a.ad_id = ae.ad_id
+GROUP BY c.campaign_id, c.name, c.total_budget
+ORDER BY c.total_budget DESC
+LIMIT 15;
+
