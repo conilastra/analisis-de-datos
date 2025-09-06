@@ -1,5 +1,5 @@
 > [!WARNING]
-> Este proyecto está todavía en construcción.
+> Este portafolio se encuentra aún en construcción.
 
 ---
 
