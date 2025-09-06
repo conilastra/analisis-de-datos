@@ -1,8 +1,3 @@
-> [!WARNING]
-> Este portafolio se encuentra aún en construcción.
-
----
-
 ### ⭐️ Sobre mí
 Mi nombre es **Constanza Lastra**, soy psicóloga y durante mi carrera me he especializado en tecnología.  Tengo formación en desarrollo web, diseño UX/UI y análisis de datos.
 
