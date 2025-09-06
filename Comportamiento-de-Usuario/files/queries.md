@@ -11,7 +11,7 @@ ORDER BY cantidad_usuarios DESC;
 ```
 <img width="318" height="306" alt="Screenshot 2025-09-04 at 3 46 06 PM" src="https://github.com/user-attachments/assets/08915ac3-a429-4716-a8cb-37b85f5a0754" />
 
-
+Cerca de la mitad de los usuarios (40%) son hombres entre 18 y 34 años. Luego se ubican las mujeres en el mismo rango etario, predominando en ambos casos el rango 25-34 años.
 
 ### Países con Más Actividad
 ```sql
@@ -29,6 +29,7 @@ ORDER BY interacciones DESC;
 ```
 <img width="390" height="187" alt="Screenshot 2025-09-04 at 8 15 30 PM" src="https://github.com/user-attachments/assets/518abe60-77a6-4d4f-bef9-c126b7e0cfb8" />
 
+Un tercio de la actividad proviene de Estados Unidos, con Reino Unido en segundo lugar y Canadá en tercero, siendo un público principalmente angloparlante.
 
 
 ### Top 10 Lugares con Más Compras
@@ -45,6 +46,8 @@ ORDER BY compras DESC;
 <img width="165" height="183" alt="Screenshot 2025-09-04 at 3 54 57 PM" src="https://github.com/user-attachments/assets/db13c56c-deed-45e0-be01-bddd00d1029a" />
 
 
+
+
 ### Tipos de Eventos Más Comunes
 ```sql
 SELECT 
@@ -57,6 +60,8 @@ GROUP BY event_type
 ORDER BY frecuencia DESC;
 ```
 <img width="305" height="127" alt="Screenshot 2025-09-04 at 3 36 18 PM" src="https://github.com/user-attachments/assets/bbdaa978-7174-4142-ac59-ef26900cb11d" />
+
+A nivel de interacciones, la mayoría (85%) son impresiones (número de veces que un contenido es mostrado en la pantalla de un usuario), con solo un 0.5% de las interacciones convirtiéndose en compras.
 
 
 ### Mejor Horario para Publicar
@@ -92,6 +97,22 @@ ORDER BY compras DESC;
 <img width="193" height="96" alt="Screenshot 2025-09-04 at 8 30 41 PM" src="https://github.com/user-attachments/assets/040b641d-5c81-4bca-a5b1-4f772511cd5e" />
 
 
+### Performance por Día de la Semana
+```sql
+SELECT 
+    day_of_week AS dia,
+    COUNT(*) as total_eventos,
+    COUNT(DISTINCT user_id) as usuarios_unicos,
+    SUM(CASE WHEN ae.event_type = 'purchase' THEN 1 ELSE 0 END) AS compras
+FROM ad_events ae
+GROUP BY day_of_week
+ORDER BY total_eventos DESC;
+```
+<img width="307" height="143" alt="Screenshot 2025-09-04 at 8 32 34 PM" src="https://github.com/user-attachments/assets/3ae7c4e9-d915-4c54-94c1-30274c2dc3d6" />
+
+En términos de horario, no existe un momento del día que genere más interacciones ni compras, distribuyéndose de manera equitativa a través del día. Lo mismo pasa a través de los días de la semana.
+
+
 ### Rendimiento por Plataforma
 ```sql
 SELECT 
@@ -106,21 +127,6 @@ GROUP BY ad_platform
 ORDER BY compras DESC;
 ```
 <img width="428" height="66" alt="Screenshot 2025-09-04 at 8 31 44 PM" src="https://github.com/user-attachments/assets/df51d3da-6a45-4f26-a918-7accc3cc5cfe" />
-
-
-### Performance por Día de la Semana
-```sql
-SELECT 
-    day_of_week AS dia,
-    COUNT(*) as total_eventos,
-    COUNT(DISTINCT user_id) as usuarios_unicos,
-    SUM(CASE WHEN ae.event_type = 'purchase' THEN 1 ELSE 0 END) AS compras
-FROM ad_events ae
-GROUP BY day_of_week
-ORDER BY total_eventos DESC;
-```
-<img width="307" height="143" alt="Screenshot 2025-09-04 at 8 32 34 PM" src="https://github.com/user-attachments/assets/3ae7c4e9-d915-4c54-94c1-30274c2dc3d6" />
-
 
 
 ### Top 10 Anuncios Más Exitosos
@@ -156,3 +162,21 @@ ORDER BY compras DESC
 LIMIT 10;
 ```
 <img width="354" height="188" alt="Screenshot 2025-09-04 at 8 00 17 PM" src="https://github.com/user-attachments/assets/b1cc6f48-642c-44c8-9fa5-7ab1b0f54f61" />
+
+### Relación entre Campañas y Presupuesto
+```sql
+SELECT
+    c.name AS nombre,
+    c.total_budget AS presupuesto,
+    COUNT(CASE WHEN ae.event_type = 'click' THEN 1 ELSE NULL END) AS clicks,
+    COUNT(CASE WHEN ae.event_type = 'purchase' THEN 1 END) as compras
+FROM campaigns c
+JOIN ads a ON c.campaign_id = a.campaign_id
+JOIN ad_events ae ON a.ad_id = ae.ad_id
+GROUP BY c.campaign_id, c.name, c.total_budget
+ORDER BY c.total_budget DESC
+LIMIT 15;
+```
+<img width="315" height="260" alt="Screenshot 2025-09-05 at 9 43 25 PM" src="https://github.com/user-attachments/assets/b4505973-baf8-4ad0-93c1-f2ec6e96e10c" />
+
+
