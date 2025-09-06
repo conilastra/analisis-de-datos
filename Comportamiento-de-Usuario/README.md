@@ -31,6 +31,6 @@ Se encuentran relacionadas de la siguiente forma:
 - A nivel de interacciones, la mayoría (85%) son impresiones (número de veces que un contenido es mostrado en la pantalla de un usuario), con solo un 0.5% de las interacciones convirtiéndose en compras.
 - En términos de horario, no existe un momento del día que genere más interacciones ni compras, distribuyéndose de manera equitativa a través del día. Lo mismo pasa a través de los días de la semana.
 - Las campañas más exitosas (en términos de interacciones y compras) no fueron necesariamente las con mayor presupuesto, estando la campaña que generó más compras en n° 13 en términos de presupuesto.
-- No existe una plataforma específica que genere mayor conversión, ni tampoco un tipo de publicación específica (carrusel, stories, post) que predomine. 
+- No existe una plataforma específica que genere mayor conversión, ni tampoco un tipo de publicación en particular (carrusel, stories, post). 
 
 
